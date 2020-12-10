@@ -1,0 +1,28 @@
+body {
+	background-color: #A5E4FD;
+	font-family: Roboto;
+}
+div {
+	background-color: #D9F3FD;
+	font-family: Raleway;
+	padding: 25px;
+	font-style: bold;
+	font-style: italic;
+}
+h1 {
+	font-family: Roboto;
+	text-align: center;
+}
+h2 {
+	font-family: Roboto;
+	text-align: center;
+}
+ul {
+	font-size: 15px;
+	font-weight: bold;
+
+}
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+}

@@ -1,0 +1,35 @@
+body{
+	background-color: #deeef1;
+
+}
+p{
+	text-align: center;
+	padding: 10px;
+	font-family: Georgia;
+	font-size: 16px;
+
+}
+h3{
+	color: royalblue;
+font-size: 22px;
+font-family: Monaco;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+
+}
+h1{
+	text-align: center;
+	font-family: Monaco;
+	color: navy;
+}
+
+iframe{
+	display: block;
+margin-left: auto;
+margin-right: auto;
+width: 70%;
+}
